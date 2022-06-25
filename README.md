@@ -10,17 +10,20 @@
 
 ## :books: Bibliotecas
 ### D-Tale
-[Exemplo](examples/dtale-example.ipynb)<br>
+[Exemplo¹](examples/dtale-example.ipynb)<br>
 [Github do Projeto](https://github.com/man-group/dtale)
 ### Lux
-[Exemplo](examples/lux-example.ipynb)<br>
+[Exemplo¹](examples/lux-example.ipynb)<br>
 [Github do Projeto](https://github.com/lux-org/lux)
 ### PandasGUI
-[Exemplo](examples/pandasgui-example.ipynb)<br>
+[Exemplo¹](examples/pandasgui-example.ipynb)<br>
 [Github do Projeto](https://github.com/adamerose/PandasGUI)
 ### pandas-profiling
-[Exemplo](examples/pandas_profilling-example.ipynb)<br>
-[Github do Projeto](https://github.com/ydataai/pandas-profiling)
+[Exemplo¹](examples/pandas_profiling-example.ipynb)<br>
+[Github do Projeto](https://github.com/ydataai/pandas-profiling)<br>
+<br>
+*¹ Os notebooks podem não funcionar corretamento no Github, indico o download no projeto e a execução localmente.*<br>
+*² É necessário instalar as libs antes de executar os exemplos. Use o [requirements.txt](/requirements.txt) para agilizar o processo:* `pip install -r requirements.txt`
 ## :punch: Colabore
 - Abra <i>Pull Requests</i> com atualizações
 - Discuta ideias em <i>Issues</i>
@@ -28,4 +31,4 @@
 - Mande feedbacks no [LinkedIn](https://linkedin.com/in/hideraldoluis)
 ## :pushpin: Licença
 [MIT License](/LICENSE) <br>
-[Base de dados utilizada nos exemplos](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings)
+[Base de dados utilizada nos Exemplo*s](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings)
