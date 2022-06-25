@@ -23,7 +23,8 @@
 [Github do Projeto](https://github.com/ydataai/pandas-profiling)<br>
 <br>
 *¹ Os notebooks podem não funcionar corretamento no Github, indico o download no projeto e a execução localmente.*<br>
-*² É necessário instalar as libs antes de executar os exemplos. Use o [requirements.txt](/requirements.txt) para agilizar o processo:* `pip install -r requirements.txt`
+*² É necessário instalar as libs antes de executar os exemplos. Use o [requirements.txt](/requirements.txt) para agilizar o processo:* <br>
+`pip install -r requirements.txt`
 ## :punch: Colabore
 - Abra <i>Pull Requests</i> com atualizações
 - Discuta ideias em <i>Issues</i>
