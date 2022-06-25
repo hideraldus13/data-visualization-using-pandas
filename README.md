@@ -19,7 +19,7 @@
 [Exemplo¹](examples/pandasgui-example.ipynb)<br>
 [Github do Projeto](https://github.com/adamerose/PandasGUI)
 ### pandas-profiling
-[Exemplo¹](examples/pandas_profiling-example.ipynb)<br>
+[Exemplo¹](examples/pandas-profiling-example.ipynb)<br>
 [Github do Projeto](https://github.com/ydataai/pandas-profiling)<br>
 <br>
 *¹ Os notebooks podem não funcionar corretamento no Github, indico o download no projeto e a execução localmente.*<br>
