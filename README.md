@@ -1,5 +1,5 @@
 <p align="center">
-  <h2 align="center">:zap: Data Visualization Using Pandas</h2>
+  <h1 align="center">:zap: Data Visualization Using Pandas</h2>
   <p align="center">Bibliotecas que simplificam a forma de visualizar seus dataframes</p>
 </p>
 
