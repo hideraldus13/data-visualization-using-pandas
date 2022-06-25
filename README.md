@@ -18,7 +18,7 @@
 ### PandasGUI
 [Exemplo](examples/pandasgui-example.ipynb)<br>
 [Github do Projeto](https://github.com/adamerose/PandasGUI)
-### pandas_profilling
+### pandas-profiling
 [Exemplo](examples/pandas_profilling-example.ipynb)<br>
 [Github do Projeto](https://github.com/ydataai/pandas-profiling)
 ## :punch: Colabore
