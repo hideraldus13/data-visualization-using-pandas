@@ -32,4 +32,4 @@
 - Mande feedbacks no [LinkedIn](https://linkedin.com/in/hideraldoluis)
 ## :pushpin: Licença
 [MIT License](/LICENSE) <br>
-[Base de dados utilizada nos Exemplo*s](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings)
+[Base de dados utilizada nos Exemplos](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings)
